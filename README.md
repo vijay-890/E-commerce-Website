@@ -1,3 +1,14 @@
 # E-commerce Website
 
-This repository is currently an empty placeholder. It does not yet contain application source code, setup instructions, or a live demo. Add those before presenting it as a finished project.
+A front-end sample shop built with HTML, CSS, and JavaScript.
+
+## Features
+
+- Product cards generated from a small sample catalog
+- Search by product or category
+- Add-to-cart counter and sample subtotal
+- Responsive layout
+
+## Run it
+
+Open index.html in a browser. Product data is sample content; the page does not send orders or process payment.
